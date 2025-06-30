@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/movieland-react-app/static/css/main.b4a7a2ef.css",
+    "main.js": "/movieland-react-app/static/js/main.9fd8dbea.js",
+    "index.html": "/movieland-react-app/index.html",
+    "static/media/search.svg": "/movieland-react-app/static/media/search.0ba429ebc71e90fd15137971f7057dd6.svg",
+    "main.b4a7a2ef.css.map": "/movieland-react-app/static/css/main.b4a7a2ef.css.map",
+    "main.9fd8dbea.js.map": "/movieland-react-app/static/js/main.9fd8dbea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4a7a2ef.css",
+    "static/js/main.9fd8dbea.js"
+  ]
+}
