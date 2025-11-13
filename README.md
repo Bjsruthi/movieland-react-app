@@ -72,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # movieland-react-app
 A simple React app that lets users search for movies using the OMDb API and view movie details like title, year, and poster.
->>>>>>> 59391d0bf83a0f4fcc00ef0e067aebe6fa0cb696
+
